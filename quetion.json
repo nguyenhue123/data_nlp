@@ -1,0 +1,52 @@
+[
+  {
+    "id": "train_1",
+    "image_id": "images_1",
+    "question": "Biển báo cấm rẽ phải có ý nghĩa gì? Người điều khiển phương tiện phải tuân thủ quy định này như thế nào khi tham gia giao thông tại vị trí đặt biển báo?"
+  },
+  {
+    "id": "train_2",
+    "image_id": "images_1",
+    "question": "Khi gặp biển báo cấm rẽ phải tại nút giao, người điều khiển phương tiện được phép thực hiện hành vi nào sau đây?"
+  },
+  {
+    "id": "train_3",
+    "image_id": "images_2",
+    "question": "Biển báo 'đường thường có trẻ em đi ngang qua' có ý nghĩa gì và người điều khiển phương tiện phải xử lý như thế nào khi gặp biển báo này?"
+  },
+  {
+    "id": "train_4",
+    "image_id": "images_2",
+    "question": "Khi thấy biển báo cảnh báo 'đường thường có trẻ em đi ngang qua', người lái xe cần thực hiện hành vi nào là phù hợp nhất để đảm bảo an toàn giao thông?"
+  },
+  {
+    "id": "train_5",
+    "image_id": "images_3",
+    "question": "Biển báo 'Hết tốc độ tối đa cho phép' có ý nghĩa là người điều khiển phương tiện không còn bị áp dụng giới hạn tốc độ tối đa đã quy định trước đó tại đoạn đường này.\nĐúng hay sai?"
+  },
+  {
+    "id": "train_6",
+    "image_id": "images_3",
+    "question": "Biển báo 'Hết tốc độ tối đa cho phép' cho phép người điều khiển phương tiện được chạy với tốc độ tùy ý mà không cần tuân thủ bất kỳ giới hạn tốc độ nào trên đoạn đường đó.\nĐúng hay sai?"
+  },
+  {
+    "id": "train_7",
+    "image_id": "images_4",
+    "question": "Biển báo 'Tốc độ tối đa cho phép' quy định người điều khiển phương tiện được phép chạy với tốc độ không vượt quá giá trị ghi trên biển báo.\nĐúng hay sai?"
+  },
+  {
+    "id": "train_8",
+    "image_id": "images_4",
+    "question": "Biển báo 'Tốc độ tối đa cho phép' quy định người điều khiển phương tiện phải tuân thủ như thế nào khi tham gia giao thông trên đoạn đường có biển báo này?"
+  },
+  {
+    "id": "train_9",
+    "image_id": "images_5",
+    "question": "Biển báo 'Cấm đi ngược chiều' có ý nghĩa gì đối với người tham gia giao thông?"
+  },
+  {
+    "id": "train_10",
+    "image_id": "images_5",
+    "question": "Khi gặp biển báo 'Cấm đi ngược chiều', người điều khiển phương tiện cần tuân thủ quy định nào sau đây?"
+  }
+]
