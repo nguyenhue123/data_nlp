@@ -39,6 +39,25 @@
   },
   {
     "id": "train_3",
+    "image_id": "images_1",
+    "question": "Khi đã đi qua vị trí đặt biển cấm rẽ phải, người điều khiển phương tiện có được phép rẽ phải ngay sau đó không?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "22"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Vẫn bị cấm rẽ phải cho đến khi gặp biển báo hết cấm hoặc biển cho phép rẽ.",
+      "B": "B. Được phép rẽ phải ngay sau khi đi qua biển cấm.",
+      "C": "C. Chỉ bị cấm rẽ phải trong khung giờ cao điểm.",
+      "D": "D. Chỉ cấm đối với ô tô, xe máy được phép rẽ phải."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "train_4",
     "image_id": "images_2",
     "question": "Biển báo 'đường thường có trẻ em đi ngang qua' có ý nghĩa gì và người điều khiển phương tiện phải xử lý như thế nào khi gặp biển báo này?",
     "relevant_articles": [
@@ -57,7 +76,7 @@
     "answer": "B"
   },
   {
-    "id": "train_4",
+    "id": "train_5",
     "image_id": "images_2",
     "question": "Khi thấy biển báo cảnh báo 'đường thường có trẻ em đi ngang qua', người lái xe cần thực hiện hành vi nào là phù hợp nhất để đảm bảo an toàn giao thông?",
     "relevant_articles": [
@@ -76,7 +95,26 @@
     "answer": "C"
   },
   {
-    "id": "train_5",
+    "id": "train_6",
+    "image_id": "images_2",
+    "question": "Khi lưu thông qua khu vực có biển báo 'đường thường có trẻ em đi ngang qua', người điều khiển phương tiện cần đặc biệt lưu ý điều gì sau đây là đúng nhất?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "C.25"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Có thể tăng tốc nếu không thấy trẻ em xuất hiện trên đường.",
+      "B": "B. Luôn chủ quan vì trẻ em thường đã được người lớn quản lý chặt chẽ.",
+      "C": "C. Giảm tốc độ, tăng cường quan sát hai bên đường và sẵn sàng xử lý tình huống bất ngờ có trẻ em băng qua.",
+      "D": "D. Chỉ cần chú ý khi có xe máy đi cùng chiều phía trước."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "train_7",
     "image_id": "images_3",
     "question": "Biển báo 'Hết tốc độ tối đa cho phép' có ý nghĩa là người điều khiển phương tiện không còn bị áp dụng giới hạn tốc độ tối đa đã quy định trước đó tại đoạn đường này.\nĐúng hay sai?",
     "relevant_articles": [
@@ -89,7 +127,7 @@
     "answer": "Đúng"
   },
   {
-    "id": "train_6",
+    "id": "train_8",
     "image_id": "images_3",
     "question": "Biển báo 'Hết tốc độ tối đa cho phép' cho phép người điều khiển phương tiện được chạy với tốc độ tùy ý mà không cần tuân thủ bất kỳ giới hạn tốc độ nào trên đoạn đường đó.\nĐúng hay sai?",
     "relevant_articles": [
@@ -102,7 +140,20 @@
     "answer": "Sai"
   },
   {
-    "id": "train_7",
+    "id": "train_9",
+    "image_id": "images_3",
+    "question": "Khi gặp biển báo 'Hết tốc độ tối thiểu cho phép', người điều khiển phương tiện có còn bắt buộc phải duy trì tốc độ tối thiểu đã quy định trước đó trên đoạn đường này không?\nĐúng hay sai?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "B.34"
+      }
+    ],
+    "question_type": "Yes/No",
+    "answer": "Đúng"
+  },
+  {
+    "id": "train_10",
     "image_id": "images_4",
     "question": "Biển báo 'Tốc độ tối đa cho phép' quy định người điều khiển phương tiện được phép chạy với tốc độ không vượt quá giá trị ghi trên biển báo.\nĐúng hay sai?",
     "relevant_articles": [
@@ -121,7 +172,7 @@
     "answer": "D"
   },
   {
-    "id": "train_8",
+    "id": "train_11",
     "image_id": "images_4",
     "question": "Biển báo 'Tốc độ tối đa cho phép' quy định người điều khiển phương tiện phải tuân thủ như thế nào khi tham gia giao thông trên đoạn đường có biển báo này?",
     "relevant_articles": [
@@ -140,7 +191,26 @@
     "answer": "D"
   },
   {
-    "id": "train_9",
+    "id": "train_12",
+    "image_id": "images_4",
+    "question": "Khi hết đoạn đường có biển báo 'Tốc độ tối đa cho phép', người điều khiển phương tiện cần hiểu như thế nào về hiệu lực của giới hạn tốc độ đã áp dụng trước đó?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "B.27"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Giới hạn tốc độ tối đa vẫn tiếp tục áp dụng cho đến khi có thông báo khác.",
+      "B": "B. Giới hạn tốc độ tối đa tự động hết hiệu lực tại vị trí biển báo kết thúc, người điều khiển phương tiện phải tuân theo tốc độ quy định chung của loại đường đó.",
+      "C": "C. Người điều khiển phương tiện được phép tự đặt giới hạn tốc độ cho riêng mình.",
+      "D": "D. Chỉ xe máy được áp dụng lại tốc độ quy định chung, ô tô vẫn giữ tốc độ cũ."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "train_13",
     "image_id": "images_5",
     "question": "Biển báo 'Cấm đi ngược chiều' có ý nghĩa gì đối với người tham gia giao thông?",
     "relevant_articles": [
@@ -159,7 +229,7 @@
     "answer": "B"
   },
   {
-    "id": "train_10",
+    "id": "train_14",
     "image_id": "images_5",
     "question": "Khi gặp biển báo 'Cấm đi ngược chiều', người điều khiển phương tiện cần tuân thủ quy định nào sau đây?",
     "relevant_articles": [
@@ -176,5 +246,297 @@
       "D": "D. Chỉ cấm ô tô, xe máy vẫn có thể đi ngược chiều nếu quan sát an toàn."
     },
     "answer": "C"
+  },
+  {
+    "id": "train_15",
+    "image_id": "images_5",
+    "question": "Khi gặp biển báo 'Cấm đi ngược chiều', người điều khiển phương tiện cần hiểu đúng nhất về phạm vi hiệu lực của biển báo này là gì?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "B.2"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Chỉ áp dụng đối với ô tô, các loại xe khác không bị ảnh hưởng.",
+      "B": "B. Áp dụng cho tất cả các phương tiện, cấm đi vào theo chiều ngược với chiều quy định trên đoạn đường có biển.",
+      "C": "C. Chỉ có hiệu lực trong khung giờ nhất định do người lái xe tự xác định.",
+      "D": "D. Chỉ cấm xe tải và xe khách, xe máy được phép đi ngược chiều nếu an toàn."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "train_16",
+    "image_id": "images_6",
+    "question": "Biển báo 'Cấm dừng xe và đỗ xe' có ý nghĩa gì đối với người điều khiển phương tiện khi tham gia giao thông tại khu vực có đặt biển báo này?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "B.30"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Cho phép dừng xe trong thời gian ngắn nhưng không được đỗ xe lâu.",
+      "B": "B. Cấm tất cả các phương tiện dừng xe và đỗ xe tại khu vực có đặt biển báo.",
+      "C": "C. Chỉ cấm đỗ xe, vẫn được phép dừng xe để đón trả khách.",
+      "D": "D. Chỉ áp dụng đối với xe ô tô, xe máy vẫn được phép dừng và đỗ bình thường."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "train_17",
+    "image_id": "images_6",
+    "question": "Người điều khiển phương tiện đang tham gia giao thông tại khu vực có biển báo 'Cấm dừng xe và đỗ xe' được phép dừng xe trong trường hợp nào sau đây là đúng quy định nhất?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "B.30"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Được phép dừng xe để đón trả khách nếu dừng nhanh và không gây cản trở giao thông.",
+      "B": "B. Được phép dừng xe bất kỳ lúc nào nếu bật đèn cảnh báo nguy hiểm.",
+      "C": "C. Chỉ được dừng xe khi có sự cho phép của lực lượng chức năng điều khiển giao thông hoặc trong trường hợp phương tiện ưu tiên đang làm nhiệm vụ.",
+      "D": "D. Được phép dừng xe nếu không có phương tiện nào khác đang lưu thông."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "train_18",
+    "image_id": "images_6",
+    "question": "Tại khu vực có biển báo 'Cấm dừng xe và đỗ xe', người điều khiển phương tiện có được phép dừng xe tạm thời để nghe điện thoại hoặc xử lý việc cá nhân không?\nĐúng hay sai?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "B.30"
+      }
+    ],
+    "question_type": "Yes/No",
+    "answer": "Sai"
+  },
+  {
+    "id": "train_19",
+    "image_id": "images_7",
+    "question": "Biển báo 'Giao nhau với đường không ưu tiên (đường nhánh)' có ý nghĩa gì và người điều khiển phương tiện cần xử lý như thế nào khi gặp biển báo này?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "C.7"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Báo hiệu sắp đến giao nhau với đường ưu tiên, phải nhường đường cho tất cả phương tiện.",
+      "B": "B. Báo hiệu sắp đến giao nhau với đường nhánh không ưu tiên, người điều khiển phương tiện trên đường chính được quyền ưu tiên nhưng vẫn cần giảm tốc độ và chú ý quan sát.",
+      "C": "C. Cho phép tăng tốc vì các phương tiện từ đường nhánh phải dừng lại hoàn toàn.",
+      "D": "D. Chỉ áp dụng đối với xe ô tô, xe máy không cần tuân thủ."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "train_20",
+    "image_id": "images_7",
+    "question": "Khi gặp biển báo 'Giao nhau với đường không ưu tiên (đường nhánh)', người điều khiển phương tiện trên đường chính cần thực hiện hành vi nào sau đây là đúng?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "C.7"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Giữ nguyên hoặc tăng tốc vì mình có quyền ưu tiên tuyệt đối.",
+      "B": "B. Dừng lại hoàn toàn trước khi qua giao lộ.",
+      "C": "C. Giảm tốc độ, quan sát và sẵn sàng xử lý tình huống phương tiện từ đường nhánh đi ra.",
+      "D": "D. Bấm còi liên tục để các phương tiện khác tránh đường."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "train_21",
+    "image_id": "images_7",
+    "question": "Biển báo 'Giao nhau với đường không ưu tiên (đường nhánh)' có bắt buộc người điều khiển phương tiện trên đường chính phải nhường đường cho phương tiện từ đường nhánh không?\nĐúng hay sai?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "C.8"
+      }
+    ],
+    "question_type": "Yes/No",
+    "answer": "Sai"
+  },
+  {
+    "id": "train_22",
+    "image_id": "images_9",
+    "question": "Biển báo 'Cấm đỗ xe' có ý nghĩa gì đối với người điều khiển phương tiện khi tham gia giao thông?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "B.31"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Cấm tất cả các phương tiện dừng và đỗ xe tại khu vực có biển báo.",
+      "B": "B. Chỉ cấm đỗ xe, vẫn được phép dừng xe trong thời gian ngắn nếu cần thiết.",
+      "C": "C. Chỉ cấm xe ô tô đỗ xe, xe máy vẫn được phép đỗ.",
+      "D": "D. Cho phép đỗ xe nếu bật đèn cảnh báo nguy hiểm."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "train_23",
+    "image_id": "images_9",
+    "question": "Khi gặp biển báo 'Cấm đỗ xe', người điều khiển phương tiện được phép thực hiện hành vi nào sau đây?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "B.31"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Đỗ xe trong thời gian ngắn nếu không gây cản trở giao thông.",
+      "B": "B. Dừng xe tạm thời để xử lý công việc cá nhân trong thời gian dài.",
+      "C": "C. Chỉ được dừng xe tạm thời, không được đỗ xe tại khu vực có biển báo.",
+      "D": "D. Được phép đỗ xe nếu có bật đèn cảnh báo nguy hiểm."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "train_24",
+    "image_id": "images_9",
+    "question": "Tại khu vực có biển báo 'Cấm đỗ xe', hành vi nào sau đây là vi phạm quy định giao thông?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "B.31"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Dừng xe tạm thời để đón trả khách nhanh chóng.",
+      "B": "B. Đỗ xe tại khu vực có biển báo dù trong thời gian ngắn.",
+      "C": "C. Giảm tốc độ và quan sát khi đi qua khu vực.",
+      "D": "D. Tiếp tục lưu thông bình thường theo làn đường."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "train_25",
+    "image_id": "images_10",
+    "question": "Biển báo 'Nơi giao nhau chạy theo vòng xuyến' có ý nghĩa gì đối với người điều khiển phương tiện?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "D.4"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Báo hiệu nơi giao nhau có đèn tín hiệu giao thông, phải dừng lại khi đèn đỏ.",
+      "B": "B. Báo hiệu nơi giao nhau các phương tiện phải đi theo vòng xuyến, nhường đường cho xe đi trong vòng xuyến.",
+      "C": "C. Cho phép các phương tiện đi thẳng qua giao lộ mà không cần giảm tốc độ.",
+      "D": "D. Chỉ áp dụng đối với xe ô tô, xe máy không cần tuân thủ."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "train_26",
+    "image_id": "images_10",
+    "question": "Khi đến nơi có biển báo 'Nơi giao nhau chạy theo vòng xuyến', người điều khiển phương tiện cần thực hiện hành vi nào sau đây là đúng?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "D.4"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Đi thẳng qua vòng xuyến nếu không có phương tiện khác.",
+      "B": "B. Tăng tốc để nhanh chóng đi qua vòng xuyến.",
+      "C": "C. Giảm tốc độ, đi theo chiều mũi tên của vòng xuyến và nhường đường cho xe đang lưu thông trong vòng xuyến.",
+      "D": "D. Dừng xe trước vòng xuyến và chờ tất cả các phương tiện đi qua."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "train_27",
+    "image_id": "images_10",
+    "question": "Tại nơi giao nhau có biển báo 'Nơi giao nhau chạy theo vòng xuyến', phương tiện nào có quyền ưu tiên?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "D.4"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Phương tiện đi vào vòng xuyến.",
+      "B": "B. Phương tiện đi từ bên phải.",
+      "C": "C. Phương tiện đã đi vào và đang lưu thông trong vòng xuyến.",
+      "D": "D. Tất cả các phương tiện đều có quyền như nhau."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "train_28",
+    "image_id": "images_8",
+    "question": "Biển báo 'Cấm xe ô tô và xe máy' có ý nghĩa gì đối với người tham gia giao thông?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "B.5"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Cấm tất cả các loại phương tiện cơ giới lưu thông qua khu vực có biển báo.",
+      "B": "B. Chỉ cấm ô tô, xe máy vẫn được phép đi qua bình thường.",
+      "C": "C. Cấm ô tô và xe máy lưu thông vào đoạn đường có đặt biển báo.",
+      "D": "D. Chỉ áp dụng trong giờ cao điểm, ngoài giờ cao điểm được phép đi."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "train_29",
+    "image_id": "images_8",
+    "question": "Khi gặp biển báo 'Cấm xe ô tô và xe máy', người điều khiển phương tiện cần tuân thủ quy định nào sau đây?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "B.5"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Được phép đi vào nếu di chuyển chậm và quan sát kỹ.",
+      "B": "B. Không được điều khiển ô tô và xe máy đi vào khu vực có biển báo.",
+      "C": "C. Chỉ cần tránh giờ cao điểm là được phép đi vào.",
+      "D": "D. Được phép đi vào nếu không gây cản trở phương tiện khác."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "train_30",
+    "image_id": "images_8",
+    "question": "Hành vi nào sau đây là vi phạm khi gặp biển báo 'Cấm xe ô tô và xe máy'?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "B.5"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Dắt xe máy qua khu vực có biển báo.",
+      "B": "B. Điều khiển ô tô đi vào đoạn đường có biển báo.",
+      "C": "C. Dừng xe ở khu vực trước biển báo để quan sát.",
+      "D": "D. Đi bộ qua khu vực có biển báo."
+    },
+    "answer": "B"
   }
 ]
