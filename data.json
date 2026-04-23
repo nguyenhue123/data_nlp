@@ -538,5 +538,662 @@
       "D": "D. Đi bộ qua khu vực có biển báo."
     },
     "answer": "B"
+  },
+  {
+    "id": "train_31",
+    "image_id": "images_11",
+    "question": "Hành vi nào dưới đây bị cấm khi gặp biển báo 'Cấm rẽ trái'?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "I.4"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Rẽ phải tại giao lộ.",
+      "B": "B. Đi thẳng qua giao lộ.",
+      "C": "C. Quay đầu xe tại nơi cho phép.",
+      "D": "D. Rẽ trái theo hướng biển báo cấm."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "train_32",
+    "image_id": "images_11",
+    "question": "Khi gặp biển báo 'Cấm rẽ trái', người điều khiển phương tiện KHÔNG được phép thực hiện hành động nào?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "I.4"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Tiếp tục đi thẳng.",
+      "B": "B. Rẽ phải nếu được phép.",
+      "C": "C. Thực hiện rẽ trái tại giao lộ.",
+      "D": "D. Giảm tốc độ để quan sát."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "train_33",
+    "image_id": "images_11",
+    "question": "Trong các lựa chọn sau, đâu là hành động đúng khi gặp biển báo 'Cấm rẽ trái'?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "I.4"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Rẽ trái theo hướng mong muốn.",
+      "B": "B. Quay đầu xe ngay tại giao lộ.",
+      "C": "C. Đi thẳng hoặc rẽ phải theo quy định.",
+      "D": "D. Dừng xe giữa giao lộ."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "train_34",
+    "image_id": "images_12",
+    "question": "Hành vi nào dưới đây là vi phạm khi gặp biển báo 'Giới hạn tốc độ tối đa 100 km/h'?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "K.2"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Điều khiển xe với tốc độ 95 km/h.",
+      "B": "B. Điều khiển xe với tốc độ 100 km/h.",
+      "C": "C. Điều khiển xe với tốc độ 105 km/h.",
+      "D": "D. Giữ tốc độ dưới mức tối đa."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "train_35",
+    "image_id": "images_12",
+    "question": "Khi gặp biển báo giới hạn tốc độ tối đa 100 km/h, người lái xe KHÔNG được phép thực hiện hành động nào?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "K.2"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Giữ tốc độ ở mức 100 km/h.",
+      "B": "B. Đi chậm hơn 100 km/h.",
+      "C": "C. Tăng tốc vượt quá 100 km/h.",
+      "D": "D. Điều chỉnh tốc độ phù hợp."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "train_36",
+    "image_id": "images_12",
+    "question": "Trong các lựa chọn sau, hành động nào là đúng khi đi vào đoạn đường có biển 'Giới hạn tốc độ tối đa 100 km/h'?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "K.2"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Luôn chạy trên 100 km/h để tiết kiệm thời gian.",
+      "B": "B. Chạy đúng hoặc thấp hơn 100 km/h.",
+      "C": "C. Có thể vượt quá tốc độ nếu đường vắng.",
+      "D": "D. Không cần quan tâm đến biển báo."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "train_37",
+    "image_id": "images_12",
+    "question": "Biển báo 'Giới hạn tốc độ tối đa 100 km/h' có ý nghĩa là người điều khiển phương tiện không được phép điều khiển xe vượt quá tốc độ 100 km/h trên đoạn đường này.\nĐúng hay sai?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "K.2"
+      }
+    ],
+    "question_type": "Yes/No",
+    "answer": "Đúng"
+  },
+  {
+    "id": "train_38",
+    "image_id": "images_31",
+    "question": "Hành vi nào sau đây là vi phạm khi gặp biển báo 'Giới hạn tốc độ tối thiểu 60 km/h'?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "K.2"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Điều khiển xe với tốc độ 70 km/h.",
+      "B": "B. Điều khiển xe với tốc độ 60 km/h.",
+      "C": "C. Điều khiển xe với tốc độ 55 km/h.",
+      "D": "D. Duy trì tốc độ từ 60 km/h trở lên."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "train_39",
+    "image_id": "images_31",
+    "question": "Khi có biển báo 'Giới hạn tốc độ tối thiểu 60 km/h', người lái xe không được phép thực hiện hành động nào?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "K.2"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Đi với tốc độ 65 km/h.",
+      "B": "B. Đi với tốc độ 60 km/h.",
+      "C": "C. Đi với tốc độ 50 km/h.",
+      "D": "D. Tăng tốc lên trên 60 km/h."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "train_40",
+    "image_id": "images_31",
+    "question": "Trong các lựa chọn sau, hành động nào là đúng khi đi vào đoạn đường có biển 'Giới hạn tốc độ tối thiểu 60 km/h'?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "K.2"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Có thể chạy dưới 60 km/h nếu đường vắng.",
+      "B": "B. Luôn chạy thấp hơn 60 km/h để an toàn.",
+      "C": "C. Không cần quan tâm đến tốc độ tối thiểu.",
+      "D": "D. Duy trì tốc độ từ 60 km/h trở lên."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "train_41",
+    "image_id": "images_31",
+    "question": "Biển báo 'Giới hạn tốc độ tối thiểu 60 km/h' có nghĩa là người điều khiển phương tiện không được phép chạy chậm hơn 60 km/h trên đoạn đường này.\nĐúng hay sai?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "K.2"
+      }
+    ],
+    "question_type": "Yes/No",
+    "answer": "Đúng"
+  },
+  {
+    "id": "train_42",
+    "image_id": "images_13",
+    "question": "Hành vi nào sau đây là không đúng khi gặp biển báo 'Giao nhau với đường không ưu tiên (đường nhánh)'?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "C.7"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Tiếp tục đi theo đường ưu tiên.",
+      "B": "B. Quan sát các phương tiện từ đường nhánh.",
+      "C": "C. Nhường đường cho xe từ đường nhánh.",
+      "D": "D. Giảm tốc độ khi đến giao lộ."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "train_43",
+    "image_id": "images_13",
+    "question": "Khi gặp biển báo 'Giao nhau với đường không ưu tiên (đường nhánh)', người lái xe cần làm gì?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "C.7"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Tăng tốc để đi nhanh qua giao lộ.",
+      "B": "B. Quan sát và chú ý xe từ đường nhánh.",
+      "C": "C. Luôn dừng lại trước giao lộ.",
+      "D": "D. Nhường đường cho tất cả phương tiện."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "train_44",
+    "image_id": "images_13",
+    "question": "Trong các lựa chọn sau, hành động nào là đúng khi đi vào đoạn đường có biển 'Giao nhau với đường không ưu tiên'?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "C.7"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Đi chậm và giữ quyền ưu tiên.",
+      "B": "B. Nhường đường cho xe từ đường nhánh.",
+      "C": "C. Dừng xe giữa giao lộ.",
+      "D": "D. Bỏ qua biển báo."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "train_45",
+    "image_id": "images_13",
+    "question": "Biển báo 'Giao nhau với đường không ưu tiên (đường nhánh)' cho biết người điều khiển phương tiện đang đi trên đường ưu tiên và cần chú ý quan sát phương tiện từ đường nhánh.\nĐúng hay sai?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "C.7"
+      }
+    ],
+    "question_type": "Yes/No",
+    "answer": "Đúng"
+  },
+  {
+    "id": "train_46",
+    "image_id": "images_14",
+    "question": "Hành vi nào sau đây là vi phạm khi gặp biển báo 'Giới hạn trọng tải 10 tấn'?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "M.1"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Điều khiển xe có trọng tải 9 tấn đi qua.",
+      "B": "B. Điều khiển xe có trọng tải 10 tấn đi qua.",
+      "C": "C. Điều khiển xe có trọng tải 12 tấn đi qua.",
+      "D": "D. Điều khiển xe nhẹ hơn giới hạn quy định."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "train_47",
+    "image_id": "images_14",
+    "question": "Khi gặp biển báo 'Giới hạn trọng tải 10 tấn', phương tiện nào không được phép đi vào?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "M.1"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Xe có trọng tải 8 tấn.",
+      "B": "B. Xe có trọng tải 10 tấn.",
+      "C": "C. Xe có trọng tải 11 tấn.",
+      "D": "D. Xe có trọng tải nhỏ hơn quy định."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "train_48",
+    "image_id": "images_14",
+    "question": "Trong các lựa chọn sau, hành động nào là đúng khi đi vào đoạn đường có biển 'Giới hạn trọng tải 10 tấn'?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "M.1"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Đi xe vượt quá 10 tấn nếu đường vắng.",
+      "B": "B. Chỉ cho xe có trọng tải không vượt quá 10 tấn đi qua.",
+      "C": "C. Không cần quan tâm đến biển báo.",
+      "D": "D. Tất cả các xe đều được phép đi qua."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "train_49",
+    "image_id": "images_14",
+    "question": "Biển báo 'Giới hạn trọng tải 10 tấn' có nghĩa là các phương tiện có trọng tải lớn hơn 10 tấn không được phép đi vào đoạn đường này.\nĐúng hay sai?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "M.1"
+      }
+    ],
+    "question_type": "Yes/No",
+    "answer": "Đúng"
+  },
+  {
+    "id": "train_50",
+    "image_id": "images_15",
+    "question": "Hành vi nào sau đây là vi phạm khi gặp biển báo 'Cấm xe ô tô khách và xe ô tô tải'?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "B.7"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Điều khiển xe ô tô con đi vào.",
+      "B": "B. Điều khiển xe máy đi vào.",
+      "C": "C. Điều khiển xe ô tô tải đi vào.",
+      "D": "D. Đi bộ qua khu vực."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "train_51",
+    "image_id": "images_15",
+    "question": "Khi gặp biển báo 'Cấm xe ô tô khách và xe ô tô tải', phương tiện nào không được phép lưu thông?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "B.7"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Xe ô tô khách.",
+      "B": "B. Xe máy.",
+      "C": "C. Xe đạp.",
+      "D": "D. Người đi bộ."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "train_52",
+    "image_id": "images_15",
+    "question": "Trong các lựa chọn sau, hành động nào là đúng khi đi vào đoạn đường có biển 'Cấm xe ô tô khách và xe ô tô tải'?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "B.7"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Điều khiển xe tải đi vào nếu đường vắng.",
+      "B": "B. Điều khiển xe khách đi vào để đón trả khách.",
+      "C": "C. Điều khiển xe ô tô con đi vào.",
+      "D": "D. Bỏ qua biển báo."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "train_53",
+    "image_id": "images_15",
+    "question": "Biển báo 'Cấm xe ô tô khách và xe ô tô tải' có nghĩa là cả xe khách và xe tải đều không được phép đi vào đoạn đường này.\nĐúng hay sai?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "B.7"
+      }
+    ],
+    "question_type": "Yes/No",
+    "answer": "Đúng"
+  },
+  {
+    "id": "train_54",
+    "image_id": "images_16",
+    "question": "Hành vi nào sau đây là vi phạm khi gặp biển báo 'Cấm xe sơ-mi rơ-moóc'?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "B.8a"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Điều khiển xe tải thông thường đi vào.",
+      "B": "B. Điều khiển xe sơ-mi rơ-moóc đi vào.",
+      "C": "C. Điều khiển xe con đi vào.",
+      "D": "D. Điều khiển xe máy đi vào."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "train_55",
+    "image_id": "images_16",
+    "question": "Khi gặp biển báo 'Cấm xe sơ-mi rơ-moóc', phương tiện nào không được phép lưu thông?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "B.8a"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Xe sơ-mi rơ-moóc.",
+      "B": "B. Xe ô tô con.",
+      "C": "C. Xe máy.",
+      "D": "D. Xe đạp."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "train_56",
+    "image_id": "images_16",
+    "question": "Trong các lựa chọn sau, hành động nào là đúng khi đi vào đoạn đường có biển 'Cấm xe sơ-mi rơ-moóc'?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "B.8a"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Điều khiển xe sơ-mi rơ-moóc đi vào nếu đường vắng.",
+      "B": "B. Điều khiển xe sơ-mi rơ-moóc đi vào ban đêm.",
+      "C": "C. Điều khiển xe không phải sơ-mi rơ-moóc đi vào.",
+      "D": "D. Bỏ qua biển báo."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "train_57",
+    "image_id": "images_16",
+    "question": "Biển báo 'Cấm xe sơ-mi rơ-moóc' có nghĩa là loại xe này không được phép đi vào đoạn đường có đặt biển.\nĐúng hay sai?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "B.8a"
+      }
+    ],
+    "question_type": "Yes/No",
+    "answer": "Đúng"
+  },
+  {
+    "id": "train_58",
+    "image_id": "images_16",
+    "question": "Biển báo 'Cấm xe sơ-mi rơ-moóc' cho phép xe sơ-mi rơ-moóc lưu thông nếu không chở hàng.\nĐúng hay sai?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "B.8a"
+      }
+    ],
+    "question_type": "Yes/No",
+    "answer": "Sai"
+  },
+  {
+    "id": "train_59",
+    "image_id": "images_32",
+    "question": "Hành vi nào sau đây là vi phạm khi gặp biển báo 'Nơi giao nhau chạy theo vòng xuyến'?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "D.4"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Đi theo chiều của vòng xuyến.",
+      "B": "B. Nhường đường cho xe trong vòng xuyến.",
+      "C": "C. Đi ngược chiều vòng xuyến.",
+      "D": "D. Giảm tốc độ khi vào vòng xuyến."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "train_60",
+    "image_id": "images_32",
+    "question": "Khi gặp biển báo 'Nơi giao nhau chạy theo vòng xuyến', người điều khiển phương tiện cần làm gì?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "D.4"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Tăng tốc để đi nhanh qua.",
+      "B": "B. Đi theo hướng quy định của vòng xuyến.",
+      "C": "C. Dừng xe giữa vòng xuyến.",
+      "D": "D. Đi tùy ý theo hướng mong muốn."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "train_61",
+    "image_id": "images_32",
+    "question": "Trong các lựa chọn sau, đâu là hành động đúng khi đi vào vòng xuyến?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "D.4"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Đi ngược chiều để rút ngắn quãng đường.",
+      "B": "B. Không cần quan sát phương tiện khác.",
+      "C": "C. Tuân theo chiều lưu thông của vòng xuyến.",
+      "D": "D. Dừng xe trong vòng xuyến."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "train_62",
+    "image_id": "images_32",
+    "question": "Biển báo 'Nơi giao nhau chạy theo vòng xuyến' yêu cầu phương tiện phải đi theo chiều quy định của vòng xuyến.\nĐúng hay sai?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "D.4"
+      }
+    ],
+    "question_type": "Yes/No",
+    "answer": "Đúng"
+  },
+  {
+    "id": "train_63",
+    "image_id": "images_32",
+    "question": "Khi vào vòng xuyến, người lái xe có thể đi ngược chiều nếu không có xe khác.\nĐúng hay sai?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "D.4"
+      }
+    ],
+    "question_type": "Yes/No",
+    "answer": "Sai"
+  },
+  {
+    "id": "train_64",
+    "image_id": "images_17",
+    "question": "Hành vi nào sau đây là vi phạm khi gặp biển báo 'Cấm các loại phương tiện đi lại cả hai hướng'?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "B.1"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Điều khiển xe máy đi vào đoạn đường.",
+      "B": "B. Dừng xe trước biển báo.",
+      "C": "C. Quay đầu xe trước khu vực cấm.",
+      "D": "D. Đi bộ qua đoạn đường."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "train_65",
+    "image_id": "images_17",
+    "question": "Khi gặp biển báo 'Cấm các loại phương tiện đi lại cả hai hướng', người điều khiển phương tiện cần làm gì?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "B.1"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Tiếp tục đi vào nếu đường vắng.",
+      "B": "B. Không đi vào đoạn đường có biển báo.",
+      "C": "C. Chỉ xe máy được phép đi vào.",
+      "D": "D. Chỉ cấm ô tô, xe khác được đi."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "train_66",
+    "image_id": "images_17",
+    "question": "Trong các lựa chọn sau, hành động nào là đúng khi gặp biển 'Cấm các loại phương tiện đi lại cả hai hướng'?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "B.1"
+      }
+    ],
+    "question_type": "Multiple choice",
+    "choices": {
+      "A": "A. Đi vào đoạn đường nếu không có phương tiện khác.",
+      "B": "B. Rẽ vào đường khác hoặc quay đầu trước biển báo.",
+      "C": "C. Đi chậm qua đoạn đường.",
+      "D": "D. Bỏ qua biển báo."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "train_67",
+    "image_id": "images_17",
+    "question": "Biển báo 'Cấm các loại phương tiện đi lại cả hai hướng' có nghĩa là mọi loại phương tiện đều không được phép đi vào đoạn đường này.\nĐúng hay sai?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "B.1"
+      }
+    ],
+    "question_type": "Yes/No",
+    "answer": "Đúng"
+  },
+  {
+    "id": "train_68",
+    "image_id": "images_17",
+    "question": "Khi gặp biển 'Cấm các loại phương tiện đi lại cả hai hướng', người điều khiển phương tiện vẫn có thể đi vào nếu đi chậm và quan sát kỹ.\nĐúng hay sai?",
+    "relevant_articles": [
+      {
+        "law_id": "QCVN 41:2024/BGTVT",
+        "article_id": "B.1"
+      }
+    ],
+    "question_type": "Yes/No",
+    "answer": "Sai"
   }
+
 ]
