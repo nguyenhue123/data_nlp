@@ -2,160 +2,341 @@
   {
     "id": "train_1",
     "image_id": "images_1",
-    "question": "Biển báo cấm rẽ phải có ý nghĩa gì? Người điều khiển phương tiện phải tuân thủ quy định này như thế nào khi tham gia giao thông tại vị trí đặt biển báo?"
+    "question": "Biển báo cấm rẽ phải có ý nghĩa gì?"
   },
   {
     "id": "train_2",
     "image_id": "images_1",
-    "question": "Khi gặp biển báo cấm rẽ phải tại nút giao, người điều khiển phương tiện được phép thực hiện hành vi nào sau đây?"
+    "question": "Khi gặp biển cấm rẽ phải, người lái xe được phép đi theo hướng nào?"
   },
   {
     "id": "train_3",
     "image_id": "images_1",
-    "question": "Khi đã đi qua vị trí đặt biển cấm rẽ phải, người điều khiển phương tiện có được phép rẽ phải ngay sau đó không?"
+    "question": "Sau khi qua biển cấm rẽ phải, khi nào được phép rẽ phải trở lại?"
   },
-
   {
     "id": "train_4",
     "image_id": "images_2",
-    "question": "Biển báo 'đường thường có trẻ em đi ngang qua' có ý nghĩa gì và người điều khiển phương tiện phải xử lý như thế nào khi gặp biển báo này?"
+    "question": "Biển báo có trẻ em qua đường cảnh báo điều gì?"
   },
   {
     "id": "train_5",
     "image_id": "images_2",
-    "question": "Khi thấy biển báo cảnh báo 'đường thường có trẻ em đi ngang qua', người lái xe cần thực hiện hành vi nào là phù hợp nhất để đảm bảo an toàn giao thông?"
+    "question": "Người lái xe cần làm gì khi thấy biển có trẻ em qua đường?"
   },
   {
     "id": "train_6",
     "image_id": "images_2",
-    "question": "Khi lưu thông qua khu vực có biển báo 'đường thường có trẻ em đi ngang qua', người điều khiển phương tiện cần đặc biệt lưu ý điều gì sau đây là đúng nhất?"
+    "question": "Tại sao cần giảm tốc độ khi gặp biển có trẻ em qua đường?"
   },
-
   {
     "id": "train_7",
     "image_id": "images_3",
-    "question": "Biển báo 'Hết tốc độ tối đa cho phép' có ý nghĩa là người điều khiển phương tiện không còn bị áp dụng giới hạn tốc độ tối đa đã quy định trước đó tại đoạn đường này.\nĐúng hay sai?"
+    "question": "Biển hết tốc độ tối đa cho phép có ý nghĩa gì?"
   },
   {
     "id": "train_8",
     "image_id": "images_3",
-    "question": "Biển báo 'Hết tốc độ tối đa cho phép' cho phép người điều khiển phương tiện được chạy với tốc độ tùy ý mà không cần tuân thủ bất kỳ giới hạn tốc độ nào trên đoạn đường đó.\nĐúng hay sai?"
+    "question": "Sau khi gặp biển hết tốc độ tối đa, người lái xe phải tuân theo quy định nào?"
   },
   {
     "id": "train_9",
     "image_id": "images_3",
-    "question": "Khi gặp biển báo 'Hết tốc độ tối thiểu cho phép', người điều khiển phương tiện có còn bắt buộc phải duy trì tốc độ tối thiểu đã quy định trước đó không?"
+    "question": "Biển hết tốc độ tối thiểu ảnh hưởng thế nào đến việc điều khiển xe?"
   },
-
   {
     "id": "train_10",
     "image_id": "images_4",
-    "question": "Biển báo 'Tốc độ tối đa cho phép' quy định người điều khiển phương tiện được phép chạy với tốc độ không vượt quá giá trị ghi trên biển báo.\nĐúng hay sai?"
+    "question": "Biển tốc độ tối đa cho phép quy định điều gì?"
   },
   {
     "id": "train_11",
     "image_id": "images_4",
-    "question": "Biển báo 'Tốc độ tối đa cho phép' quy định người điều khiển phương tiện phải tuân thủ như thế nào khi tham gia giao thông trên đoạn đường có biển báo này?"
+    "question": "Người lái xe phải duy trì tốc độ như thế nào khi gặp biển này?"
   },
   {
     "id": "train_12",
     "image_id": "images_4",
-    "question": "Khi hết đoạn đường có biển báo 'Tốc độ tối đa cho phép', người điều khiển phương tiện cần hiểu như thế nào về hiệu lực của giới hạn tốc độ đã áp dụng trước đó?"
+    "question": "Khi hết hiệu lực biển tốc độ tối đa, cần làm gì?"
   },
-
   {
     "id": "train_13",
     "image_id": "images_5",
-    "question": "Biển báo 'Cấm đi ngược chiều' có ý nghĩa gì đối với người tham gia giao thông?"
+    "question": "Biển cấm đi ngược chiều có ý nghĩa gì?"
   },
   {
     "id": "train_14",
     "image_id": "images_5",
-    "question": "Khi gặp biển báo 'Cấm đi ngược chiều', người điều khiển phương tiện cần tuân thủ quy định nào sau đây?"
+    "question": "Khi gặp biển cấm đi ngược chiều, người lái xe phải làm gì?"
   },
   {
     "id": "train_15",
     "image_id": "images_5",
-    "question": "Khi gặp biển báo 'Cấm đi ngược chiều', người điều khiển phương tiện cần hiểu đúng nhất về phạm vi hiệu lực của biển báo này là gì?"
+    "question": "Phạm vi áp dụng của biển cấm đi ngược chiều là gì?"
   },
-
   {
     "id": "train_16",
     "image_id": "images_6",
-    "question": "Biển báo 'Cấm dừng xe và đỗ xe' có ý nghĩa gì đối với người điều khiển phương tiện khi tham gia giao thông tại khu vực có đặt biển báo này?"
+    "question": "Biển cấm dừng và đỗ xe quy định điều gì?"
   },
   {
     "id": "train_17",
     "image_id": "images_6",
-    "question": "Người điều khiển phương tiện đang tham gia giao thông tại khu vực có biển báo 'Cấm dừng xe và đỗ xe' được phép dừng xe trong trường hợp nào sau đây?"
+    "question": "Trong trường hợp nào được phép dừng xe tại khu vực này?"
   },
   {
     "id": "train_18",
     "image_id": "images_6",
-    "question": "Tại khu vực có biển báo 'Cấm dừng xe và đỗ xe', người điều khiển phương tiện có được phép dừng xe tạm thời để xử lý việc cá nhân không?"
+    "question": "Có được dừng xe tạm thời khi gặp biển này không?"
   },
-
   {
     "id": "train_19",
     "image_id": "images_7",
-    "question": "Biển báo 'Giao nhau với đường không ưu tiên (đường nhánh)' có ý nghĩa gì và người điều khiển phương tiện cần xử lý như thế nào khi gặp biển báo này?"
+    "question": "Biển giao nhau với đường không ưu tiên có ý nghĩa gì?"
   },
   {
     "id": "train_20",
     "image_id": "images_7",
-    "question": "Khi gặp biển báo 'Giao nhau với đường không ưu tiên (đường nhánh)', người điều khiển phương tiện trên đường chính cần thực hiện hành vi nào?"
+    "question": "Người lái xe cần xử lý như thế nào khi đến giao lộ này?"
   },
   {
     "id": "train_21",
     "image_id": "images_7",
-    "question": "Biển báo 'Giao nhau với đường không ưu tiên (đường nhánh)' có bắt buộc người điều khiển phương tiện trên đường chính phải nhường đường cho phương tiện từ đường nhánh không?"
+    "question": "Có cần nhường đường khi đi trên đường chính không?"
   },
-
   {
     "id": "train_22",
     "image_id": "images_9",
-    "question": "Biển báo 'Cấm đỗ xe' có ý nghĩa gì đối với người điều khiển phương tiện khi tham gia giao thông?"
+    "question": "Biển cấm đỗ xe có ý nghĩa gì?"
   },
   {
     "id": "train_23",
     "image_id": "images_9",
-    "question": "Khi gặp biển báo 'Cấm đỗ xe', người điều khiển phương tiện được phép thực hiện hành vi nào?"
+    "question": "Người lái xe được phép làm gì khi gặp biển cấm đỗ xe?"
   },
   {
     "id": "train_24",
     "image_id": "images_9",
-    "question": "Tại khu vực có biển báo 'Cấm đỗ xe', hành vi nào sau đây là vi phạm quy định giao thông?"
+    "question": "Hành vi nào bị coi là vi phạm tại khu vực này?"
   },
-
   {
     "id": "train_25",
     "image_id": "images_10",
-    "question": "Biển báo 'Nơi giao nhau chạy theo vòng xuyến' có ý nghĩa gì đối với người điều khiển phương tiện?"
+    "question": "Biển vòng xuyến có ý nghĩa gì?"
   },
   {
     "id": "train_26",
     "image_id": "images_10",
-    "question": "Khi đến nơi có biển báo 'Nơi giao nhau chạy theo vòng xuyến', người điều khiển phương tiện cần thực hiện hành vi nào?"
+    "question": "Khi vào vòng xuyến, người lái xe cần tuân thủ quy tắc nào?"
   },
   {
     "id": "train_27",
     "image_id": "images_10",
-    "question": "Tại nơi giao nhau có biển báo 'Nơi giao nhau chạy theo vòng xuyến', phương tiện nào có quyền ưu tiên?"
+    "question": "Phương tiện nào được ưu tiên trong vòng xuyến?"
   },
-
   {
     "id": "train_28",
     "image_id": "images_8",
-    "question": "Biển báo 'Cấm xe ô tô và xe máy' có ý nghĩa gì đối với người tham gia giao thông?"
+    "question": "Biển cấm ô tô và xe máy có ý nghĩa gì?"
   },
   {
     "id": "train_29",
     "image_id": "images_8",
-    "question": "Khi gặp biển báo 'Cấm xe ô tô và xe máy', người điều khiển phương tiện cần tuân thủ quy định nào?"
+    "question": "Những phương tiện nào không được phép đi vào khi gặp biển này?"
   },
   {
     "id": "train_30",
     "image_id": "images_8",
-    "question": "Hành vi nào sau đây là vi phạm khi gặp biển báo 'Cấm xe ô tô và xe máy'?"
+    "question": "Hành vi nào bị coi là vi phạm khi gặp biển này?"
+  },
+  {
+    "id": "train_31",
+    "image_id": "images_11",
+    "question": "Biển cấm rẽ trái quy định điều gì?"
+  },
+  {
+    "id": "train_32",
+    "image_id": "images_11",
+    "question": "Người lái xe không được thực hiện hành vi nào khi gặp biển này?"
+  },
+  {
+    "id": "train_33",
+    "image_id": "images_11",
+    "question": "Khi gặp biển cấm rẽ trái, được phép đi theo hướng nào?"
+  },
+  {
+    "id": "train_34",
+    "image_id": "images_12",
+    "question": "Biển giới hạn tốc độ tối đa 100 km/h có ý nghĩa gì?"
+  },
+  {
+    "id": "train_35",
+    "image_id": "images_12",
+    "question": "Người lái xe cần điều chỉnh tốc độ như thế nào?"
+  },
+  {
+    "id": "train_36",
+    "image_id": "images_12",
+    "question": "Có được vượt quá 100 km/h trong trường hợp nào không?"
+  },
+  {
+    "id": "train_37",
+    "image_id": "images_12",
+    "question": "Nếu chạy quá 100 km/h sẽ vi phạm điều gì?"
+  },
+  {
+    "id": "train_38",
+    "image_id": "images_31",
+    "question": "Biển tốc độ tối thiểu 60 km/h yêu cầu điều gì?"
+  },
+  {
+    "id": "train_39",
+    "image_id": "images_31",
+    "question": "Người lái xe không được chạy dưới mức nào?"
+  },
+  {
+    "id": "train_40",
+    "image_id": "images_31",
+    "question": "Trong điều kiện nào vẫn phải giữ tốc độ tối thiểu?"
+  },
+  {
+    "id": "train_41",
+    "image_id": "images_31",
+    "question": "Nếu chạy dưới 60 km/h có vi phạm không?"
+  },
+  {
+    "id": "train_42",
+    "image_id": "images_13",
+    "question": "Biển giao nhau với đường không ưu tiên cảnh báo điều gì?"
+  },
+  {
+    "id": "train_43",
+    "image_id": "images_13",
+    "question": "Người lái xe cần quan sát những gì tại giao lộ này?"
+  },
+  {
+    "id": "train_44",
+    "image_id": "images_13",
+    "question": "Có cần giảm tốc độ khi gặp biển này không?"
+  },
+  {
+    "id": "train_45",
+    "image_id": "images_13",
+    "question": "Ai là người có quyền ưu tiên tại giao lộ này?"
+  },
+  {
+    "id": "train_46",
+    "image_id": "images_14",
+    "question": "Biển giới hạn trọng tải 10 tấn quy định điều gì?"
+  },
+  {
+    "id": "train_47",
+    "image_id": "images_14",
+    "question": "Xe có trọng tải bao nhiêu thì bị cấm đi vào?"
+  },
+  {
+    "id": "train_48",
+    "image_id": "images_14",
+    "question": "Người lái xe cần kiểm tra gì trước khi đi vào đoạn đường này?"
+  },
+  {
+    "id": "train_49",
+    "image_id": "images_14",
+    "question": "Nếu vượt quá tải trọng sẽ bị xử lý thế nào?"
+  },
+  {
+    "id": "train_50",
+    "image_id": "images_15",
+    "question": "Biển cấm xe khách và xe tải có ý nghĩa gì?"
+  },
+  {
+    "id": "train_51",
+    "image_id": "images_15",
+    "question": "Những loại xe nào không được phép đi vào?"
+  },
+  {
+    "id": "train_52",
+    "image_id": "images_15",
+    "question": "Xe con có được phép đi vào không?"
+  },
+  {
+    "id": "train_53",
+    "image_id": "images_15",
+    "question": "Vi phạm biển này sẽ dẫn đến hậu quả gì?"
+  },
+  {
+    "id": "train_54",
+    "image_id": "images_16",
+    "question": "Biển cấm xe sơ-mi rơ-moóc có ý nghĩa gì?"
+  },
+  {
+    "id": "train_55",
+    "image_id": "images_16",
+    "question": "Loại phương tiện nào bị hạn chế?"
+  },
+  {
+    "id": "train_56",
+    "image_id": "images_16",
+    "question": "Xe không phải sơ-mi rơ-moóc có được đi vào không?"
+  },
+  {
+    "id": "train_57",
+    "image_id": "images_16",
+    "question": "Tại sao cần cấm loại xe này trên một số tuyến đường?"
+  },
+  {
+    "id": "train_58",
+    "image_id": "images_16",
+    "question": "Xe sơ-mi rơ-moóc không chở hàng có được phép đi không?"
+  },
+  {
+    "id": "train_59",
+    "image_id": "images_32",
+    "question": "Biển vòng xuyến yêu cầu người lái xe thực hiện điều gì?"
+  },
+  {
+    "id": "train_60",
+    "image_id": "images_32",
+    "question": "Có được đi ngược chiều trong vòng xuyến không?"
+  },
+  {
+    "id": "train_61",
+    "image_id": "images_32",
+    "question": "Người lái xe cần chú ý điều gì khi vào vòng xuyến?"
+  },
+  {
+    "id": "train_62",
+    "image_id": "images_32",
+    "question": "Phải đi theo hướng nào trong vòng xuyến?"
+  },
+  {
+    "id": "train_63",
+    "image_id": "images_32",
+    "question": "Khi không có xe khác, có được đi sai chiều không?"
+  },
+  {
+    "id": "train_64",
+    "image_id": "images_17",
+    "question": "Biển cấm tất cả phương tiện hai chiều có ý nghĩa gì?"
+  },
+  {
+    "id": "train_65",
+    "image_id": "images_17",
+    "question": "Người lái xe cần làm gì khi gặp biển này?"
+  },
+  {
+    "id": "train_66",
+    "image_id": "images_17",
+    "question": "Có được đi vào nếu đường vắng không?"
+  },
+  {
+    "id": "train_67",
+    "image_id": "images_17",
+    "question": "Biển này áp dụng cho những loại phương tiện nào?"
+  },
+  {
+    "id": "train_68",
+    "image_id": "images_17",
+    "question": "Có trường hợp ngoại lệ nào được phép đi vào không?"
   }
 ]
